@@ -1,10 +1,4 @@
-******** Paused (not available) till somewhen in later 2025 ********
----
-
-Due to private priorities I did not have the time during 2024 nor could I concentrate on SikuliX.
-I cannot yet predict when or if I continue.
-
----
+Forked from SikuliX
 
 [![SikuliX](https://raw.githubusercontent.com/RaiMan/SikuliX1/master/Support/sikulix-red.png)](https://sikulix.github.io)
 
